@@ -1,3 +1,4 @@
+## Principal Component Analysis on the Heptathlon Dataset (R, HSAUR)
 This repository explores Principal Component Analysis (PCA) applied to the Heptathlon dataset from the HSAUR (Handbook of Statistical Analysis Using R) package. The dataset contains performance measures of athletes in a women’s heptathlon competition, covering seven track and field events.
 
 The PCA analysis uncovered meaningful patterns in the heptathlon data, which have real-world applications:
